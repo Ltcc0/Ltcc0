@@ -2,7 +2,7 @@
 
 ### Software developer & Engineering learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ltcc0" alt="Ltcc0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/158467799?v=4&size=64" /></a> </p>
 
 - 🔭 I'm currently working on **FTC team 19581/19580, FRC 5516**
 
