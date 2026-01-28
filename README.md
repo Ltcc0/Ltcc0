@@ -33,6 +33,14 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40" />
   </a>
+  <!-- RESTful API (Represented by Postman) -->
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="restapi" width="40" height="40" />
+  </a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" />
+  </a>
   <!-- Arduino -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40" />
