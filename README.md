@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **FTC team 19581/19580, FRC 5516**
 
-- 🌱 I'm currently learning **Integrated engineering**
+- 🌱 I'm currently learning **Hardware and STF CS146S**
 
 - 📫 How to reach me **ltcc426@gmail.com**
 
