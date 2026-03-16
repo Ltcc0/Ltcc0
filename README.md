@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/158467799?v=4&size=64" /></a> </p>
 
-- 🔭 I'm currently working on **FTC team 19581/19580, FRC 5516**
+- 🔭 I'm was working on **FTC team 19581/19580, FRC 5516**
 
 - 🌱 I'm currently learning **Hardware and STF CS146S**
 
