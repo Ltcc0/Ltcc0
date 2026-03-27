@@ -6,7 +6,7 @@
 
 - 🔭 I'm an alumnus of **FTC team 19581/19580, FRC 5516**
 
-- 🌱 **University of Mcgill CS**
+- 🌱 **University of Mcgill CS 26Fall**
 
 - 📫 How to reach me **ltcc426@gmail.com**
 
