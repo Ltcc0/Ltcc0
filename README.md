@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ltcc0
 
-### Software developer & Engineering learner
+### Software developer & Hardware learner
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/158467799?v=4&size=64" /></a> </p>
 
