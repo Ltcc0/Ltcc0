@@ -69,4 +69,8 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40" />
   </a>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" />
+  </a>
 </p>
