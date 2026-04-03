@@ -1,14 +1,14 @@
-# Hi 👋, I'm Ltcc0
+# Hi, Ltcc Ash here !
 
 ### Software developer & Hardware learner
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/158467799?v=4&size=64" /></a> </p>
 
-- 🔭 I'm an alumnus of **FTC team 19581/19580, FRC 5516**
+-  I'm an alumnus of **FTC team 19581/19580, FRC 5516**
 
-- 🌱 **University of Mcgill CS 26Fall**
+-  **University of Mcgill CS 26Fall**
 
-- 📫 How to reach me **ltcc426@gmail.com**
+-  How to reach me **ltcc426@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
