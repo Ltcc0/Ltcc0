@@ -2,11 +2,11 @@
 
 ### Software developer & Hardware learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/158467799?v=4&size=64" /></a> </p>
+<p align="left"> <a href="https://github.com/Ltcc0"><img src="https://avatars.githubusercontent.com/u/158467799?v=4&size=64" style="border-radius: 50%;" /></a> </p>
 
 -  I'm an alumnus of **FTC team 19581/19580, FRC 5516**
 
--  **University of Mcgill CS 26Fall**
+-  **University of McGill CS 26Fall**
 
 -  How to reach me **ltcc426@gmail.com**
 
@@ -17,60 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" />
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40" />
-  </a>
-  <!-- Spring Boot -->
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=spring" alt="springboot" width="40" height="40" />
-  </a>
-  <!-- FastAPI -->
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40" />
-  </a>
-  <!-- RESTful API (Represented by Postman) -->
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" alt="restapi" width="40" height="40" />
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" />
-  </a>
-  <!-- Arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40" />
-  </a>
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40" />
-  </a>
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" />
-  </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" />
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" />
-  </a>
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40" />
-  </a>
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40" />
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,spring,fastapi,postman,docker,arduino,vscode,html,css,js,c,cpp,ts" />
   </a>
 </p>
