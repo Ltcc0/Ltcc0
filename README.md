@@ -1,6 +1,6 @@
 # Hi, Ltcc Ash here !
 
-###  Developer & Learner, Enjoying doing cool stuff
+###  Developer & Learner, Enjoying doing Cool stuff
 
 <p align="left"> <a href="https://github.com/Ltcc0"><img src="https://avatars.githubusercontent.com/u/158467799?v=4&size=64" style="border-radius: 50%;" /></a> </p>
 
