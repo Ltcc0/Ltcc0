@@ -18,6 +18,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,spring,fastapi,postman,docker,arduino,vscode,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=py,java,spring,fastapi,postman,docker,arduino,vscode,html,css,js,ts,supabase" />
   </a>
 </p>
