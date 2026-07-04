@@ -1,28 +1,23 @@
 # Hi, Ltcc Ash here !
 
-###  Developer & Learner, Enjoying Building Cool stuff
+### Developer & Learner, Enjoying Building Cool stuff
 
-<p align="left"> <a href="https://github.com/Ltcc0"><img src="https://avatars.githubusercontent.com/u/158467799?v=4&size=64" style="border-radius: 50%;" /></a> </p>
+[![Ltcc Ash](https://avatars.githubusercontent.com/u/158467799?v=4&size=64)](https://github.com/Ltcc0)
 
--  I'm an alumnus of **FTC team 19581/19580, FRC 5516**
+- I'm an alumnus of **FTC team 19581/19580, FRC 5516**
 
--  **University of Waterloo CE 31'**
+- **University of Waterloo CE 31'**
 
--  How to reach me **ltcc426@gmail.com**
+- How to reach me **ltcc426@gmail.com**
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-[![Burrow Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=caezium&repo=Burrow)](https://github.com/caezium/Burrow)
-</p>
+### Projects:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Ltcc0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ltcc0" height="30" width="40" /></a>
-</p>
+[![Burrow Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=caezium&repo=Burrow&theme=radical)](https://github.com/caezium/Burrow)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,spring,fastapi,vercel,docker,arduino,vscode,html,css,js,ts,supabase,railway"/>
-  </a>
-</p>
+### Connect with me:
+
+[![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/Ltcc0)
+
+### Languages and Tools:
+
+[![Skills](https://skillicons.dev/icons?i=py,java,spring,fastapi,vercel,docker,arduino,vscode,html,css,js,ts,supabase,railway)](https://skillicons.dev)
