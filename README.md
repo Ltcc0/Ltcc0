@@ -10,6 +10,11 @@
 
 -  How to reach me **ltcc426@gmail.com**
 
+<h3 align="left">Projects:</h3>
+<p align="left">
+[![Burrow Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=caezium&repo=Burrow)](https://github.com/caezium/Burrow)
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Ltcc0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ltcc0" height="30" width="40" /></a>
