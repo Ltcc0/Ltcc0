@@ -11,12 +11,7 @@
 - How to reach me **ltcc426@gmail.com**
 
 ### Projects:
-
-[![Burrow Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=caezium&repo=Burrow&theme=radical)](https://github.com/caezium/Burrow)
-
-### Connect with me:
-
-[![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/Ltcc0)
+- [Burrow](https://github.com/caezium/Burrow) · 839 stars — free, native macOS GUI for the Mole CLI: clean, uninstall, optimize, analyze disk, watch live status, plus a long-range local metrics history and an MCP server for AI agents. `brew install --cask caezium/tap/burrow`
 
 ### Languages and Tools:
 
