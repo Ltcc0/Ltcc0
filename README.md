@@ -11,7 +11,7 @@
 - How to reach me **ltcc426@gmail.com**
 
 ### Projects:
-- [Burrow](https://github.com/caezium/Burrow) · 839 stars — free, native macOS GUI for the Mole CLI: clean, uninstall, optimize, analyze disk, watch live status, plus a long-range local metrics history and an MCP server for AI agents. Work as windows verison developer
+- [Burrow](https://github.com/caezium/Burrow) · 1000+ stars — free, native macOS GUI for the Mole CLI: clean, uninstall, optimize, analyze disk, watch live status, plus a long-range local metrics history and an MCP server for AI agents. Work as windows verison developer
 
 ### Languages and Tools:
 
