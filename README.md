@@ -6,7 +6,7 @@
 
 - Co-founder at a seed-round startup
 
-- Has been working at <img src="xbot.png" height="17" align="center" />
+- Has been working as SDE at <img src="xbot.png" height="17" align="center" />
 
 - **University of Waterloo CE 31'**
 
