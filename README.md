@@ -6,8 +6,7 @@
 
 - Co-founder at a seed-round startup
 
-- Has been working as SDE at <img src="xbot.png" height="17" align="center" />
-
+- Has been working as SDE at [<img src="xbot.png" height="17" align="center" />](https://www.xbotpark.com/en/AboutUs/)
 - **University of Waterloo CE 31'**
 
 - How to reach me **ltcc426@gmail.com**
