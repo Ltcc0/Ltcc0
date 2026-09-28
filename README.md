@@ -20,6 +20,8 @@
 
 - [Tomeet](https://github.com/toMeetADX/TOMEET_Backend) · **AdventureX — First Prize in the Photon Track.** I engineered the WeChat integration gateway for our conversational agents and designed the core matchmaking algorithm to calculate user compatibility.
 
+- [MapleSim](https://github.com/Shenzhen-Robotics-Alliance/maple-sim) · **100+ stars** - Elevating FRC Java Robot Simulations to the Next Level with Physics Engines, dyn4j.
+
 ### Languages and Tools
 
 [![Skills](https://skillicons.dev/icons?i=py,java,spring,fastapi,vercel,docker,arduino,vscode,html,css,js,ts,supabase,railway)](https://skillicons.dev)
