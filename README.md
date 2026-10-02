@@ -4,7 +4,7 @@
 
 [![Ltcc Ash](https://avatars.githubusercontent.com/u/158467799?v=4&size=64)](https://github.com/Ltcc0)
 
-- Co-founder at a seed-round startup
+- Founder of Wiva.io
 
 - Working as an FDE at&nbsp;&nbsp;<a href="https://www.xbotpark.com/en/AboutUs/"><img src="xbot.png" alt="XBOTPARK" height="20" align="middle" /></a>
 
