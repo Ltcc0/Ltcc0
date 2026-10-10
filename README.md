@@ -16,7 +16,7 @@
 
 ### Projects
 
-- [Burrow](https://github.com/caezium/Burrow) · **1500+ stars** — A free, native macOS GUI for the Mole CLI: clean, uninstall, optimize, analyze disk usage, monitor live system status, and track historical local metrics, with an MCP server for AI agents. I work on the Windows version.
+- [Burrow](https://github.com/caezium/Burrow) · **1600+ stars** — A free, native macOS GUI for the Mole CLI: clean, uninstall, optimize, analyze disk usage, monitor live system status, and track historical local metrics, with an MCP server for AI agents. I work on the Windows version.
 
 - [Tomeet](https://github.com/toMeetADX/TOMEET_Backend) · **AdventureX — First Prize in the Photon Track.** I engineered the WeChat integration gateway for our conversational agents and designed the core matchmaking algorithm to calculate user compatibility.
 
