@@ -22,7 +22,7 @@
 
 - [MapleSim](https://github.com/Shenzhen-Robotics-Alliance/maple-sim) · **100+ stars** - Elevating FRC Java Robot Simulations to the Next Level with Physics Engines, dyn4j.
 
-- [exodus](https://github.com/CommunihacksSeed/exodus) ·
+- [exodus](https://github.com/CommunihacksSeed/exodus) · **CIVIC Hack 2026 winners** - Plain-language explanations of City of Toronto council decisions, with every statement linked to the official record.
 
 ### Languages and Tools
 
